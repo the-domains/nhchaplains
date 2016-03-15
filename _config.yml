@@ -1,0 +1,28 @@
+name: NHChaplains
+favicon: null
+layout_spectrum: 0.12657727114856243
+typography_spectrum: 0.16650809906423092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10025878204032779
+  lightness: 0.5577206676825881
+  saturation: 0.5161612203810364
+  rhythmicContrast: 0.5012418522965163
+purpose: []
