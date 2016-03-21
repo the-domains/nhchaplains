@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NHChaplains]]></title>
+        <description><![CDATA[NHChaplains]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 11:56:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the New Hampshire Chaplains Association!]]></title>
+            <description><![CDATA[<h1>Welcome to the New Hampshire Chaplains Association!</h1>]]></description>
+            <link>undefinedwelcome-to-the-new-hampshire-chaplains-association/index.html</link>
+            <guid isPermaLink="false">eca48458-4c61-4e18-815d-298c783f4a61</guid>
+            <pubDate>Mon, 21 Mar 2016 11:56:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
