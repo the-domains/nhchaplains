@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T11:56:44.914Z'
-dateModified: '2016-03-20T15:31:16.757Z'
+datePublished: '2016-03-21T12:15:56.390Z'
+dateModified: '2016-03-21T12:15:51.218Z'
 title: 'Welcome to the New Hampshire Chaplains Association!'
 author: []
 authors: []
@@ -28,7 +28,7 @@ We are an informal collegial association of chaplains in New Hampshire.   For ov
 
 We meet quarterly, and the meeting location rotates around a variety of locations in NH.  Each meeting features a speaker, and time for networking and informal conversation.  If you are a professional or volunteer chaplain living or working in NH, we welcome your interest and participation.
 
-To be included in our **mail list**, you can subscribe yourself [here][0], or manage your email preferences [here][0], or to unsubscribe click [here][1].
+To be included in our **mail list**, you can subscribe yourself [here][0], or to unsubscribe click [here][1].
 
 [0]: http://eepurl.com/bUAadL
 [1]: http://nednaz.us6.list-manage.com/unsubscribe?u=0b679e6e751776713eb6360a5&id=cacc97539f
