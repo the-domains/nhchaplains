@@ -1,6 +1,6 @@
 name: NHChaplains
 favicon: null
-layout_spectrum: 0.49248
+layout_spectrum: 0.75709
 typography_spectrum: 0.16650809906423092
 title: The New Hampshire Chaplains Association
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.10025878204032779
+  brandStrength: 0.5
   lightness: 0.5577206676825881
   saturation: 0.5161612203810364
   rhythmicContrast: 0.5012418522965163
