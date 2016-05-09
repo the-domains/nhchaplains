@@ -6,10 +6,11 @@ isBasedOnUrl: 'http://www.newhampshire.com/article/20160506/NEWHAMPSHIRE1409/160
 inLanguage: null
 keywords: []
 description: "Goffstown News May 06. 2016 11:44AM David Teed of New Boston, left, serves as the veterans' liaison for Compassionate Care Hospice in Londonderry, with Susan Walker of Manchester, who is one of the agency's chaplains. (.Darrell Halen Photo) New Boston veteran helps others find final peace By Darrell Halen David Teed spends a lot of his time with veterans. He visits nursing homes, veterans organizations, assisted-living facilities and other places, and likes to let veterans know of the programs and benefits that are available to them. Teed, a Navy veteran who lives in New Boston, also tells them about the company he works for – Compassionate Care Hospice, which provides home health care, palliative care and hospice care – a service provided to the terminally ill and their loved ones to ease the emotional and physical trauma associated with the end of life. \"Some people are only with us a very short time,\" said Teed, who works in the company's Londonderry office as its veterans' liaison. \"In my (time) of getting to meet them, I don't really learn about them or their families. Others I've worked with for months and I get to know their kids, their grand-kids and we share stories, and I watch them steadily decline, ultimately depart.\" In addition to New Hampshire, Compassionate Care Hospice is located in 21 other states. Staffers in the Londonderry office, which includes nurses, social workers and others, deal with patients who are spending the end of their lives at homes, hospitals, nursing homes and other places. Hospice patients are suffering from cancer, renal failure, dementia, a heart condition, chronic obstructive pulmonary disease or another ailment. The company's hospice services are available to all people, including veterans. When a patient is going into hospice care, a clinical liaison at the office will gather information about the patient and submit forms, and then other employees get involved. \"A lot of times when you talk to veterans, especially your World War II, Korean and Vietnam-era veterans, they internalize a lot of stuff,\" Teed said. \"They won't talk to civilian people. They'll say, 'Yeah, I was in the service' and that's all you'll get out of them. What we find with the older veterans is, as they become more in touch with their mortality, they have a lot of repressed anger, grief or regrets, and they take it out on their family or the caregivers at the nursing homes, and the people don't know why. What we found is that by me talking to them, I'm able to have that fellow veteran-to-veteran conversation.\" For a veteran in hospice care, the company will present a certificate honoring them for their service, along with two small flags – a U.S. flag and a flag of their military branch. For some veterans, it's a way to see some family members for the last time. \"Every family's different,\" Teed said. \"We've had some where we've had full-blown parties, cake and everything else. We've had others that have been very somber occasions by the bedside where we read it and everyone is very quiet.\" "
-datePublished: '2016-05-09T10:54:13.801Z'
-dateModified: '2016-05-09T10:53:50.499Z'
+datePublished: '2016-05-09T10:55:31.571Z'
+dateModified: '2016-05-09T10:54:18.535Z'
 author: []
 title: ''
+sourcePath: _posts/2016-05-09-new-boston-chaplain-susan-walker-in-the-press.md
 authors: []
 publisher:
   name: newhampshire.com
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-new-boston-chaplain-susan-walker-in-the-press.md
 _context: 'http://schema.org'
 _type: Article
 
