@@ -3,21 +3,20 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "Here is a link to a news story about the famous 'four chaplains' of World War II, one of who was\_"
-datePublished: '2016-03-21T12:45:43.784Z'
-dateModified: '2016-03-21T12:45:36.684Z'
+description: "Here is a link to a news story about the famous 'four chaplains' of World War II, one of who was Clark Vandersall Poling of Deering NH."
+datePublished: '2016-05-09T10:57:53.490Z'
+dateModified: '2016-05-09T10:57:47.378Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-here-is-a-link-to-a-news-story-about-the-famous-four-chapla.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-here-is-a-link-to-a-news-story-about-the-famous-four-chapla.md
-published: true
+starred: false
 url: here-is-a-link-to-a-news-story-about-the-famous-four-chapla/index.html
 _type: Blurb
 
